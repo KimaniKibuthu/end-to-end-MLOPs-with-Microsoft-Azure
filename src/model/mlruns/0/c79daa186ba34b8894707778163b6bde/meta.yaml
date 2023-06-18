@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/I585498/Desktop/end-to-end-MLOPs-with-Microsoft-Azure/src/model/mlruns/0/c79daa186ba34b8894707778163b6bde/artifacts
+end_time: 1687092446289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c79daa186ba34b8894707778163b6bde
+run_name: rogue-worm-956
+run_uuid: c79daa186ba34b8894707778163b6bde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687092427485
+status: 3
+tags: []
+user_id: I585498
